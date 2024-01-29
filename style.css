@@ -1,0 +1,28 @@
+.text-center{
+    text-align: center;
+}
+
+button{
+    width: 22px;
+    border-color: rgb(94, 77, 77);
+    padding: 20px; 
+     margin: 0 3px;
+    /* border: 2px solid blue; */
+    border-radius: 9px;
+    cursor:pointer;
+
+}
+.button1:hover{
+    color: red;
+}
+
+
+.row{
+    margin:12px
+}
+/* .row input{
+    margin: 10px;
+    padding: 10px 31px;
+    /* border: 2px solid black; 
+    border-radius: 7px;
+} */
